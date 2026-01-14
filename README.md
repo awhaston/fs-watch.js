@@ -26,6 +26,13 @@ node fs-watch-server.mjs
 ## Variables
 
 ### Server
-DIR -  Change to watch a different directory, (Like a build directory), currently defaults to the directory the server is running in. default = "./"
-PORT - Port that the server runs on. default = 3434
-DEBUG - Set to log each file that changes. default = false
+- DIR:  Change to watch a different directory, (Like a build directory), currently defaults to the directory the server is running in. default = "./"
+- PORT: Port that the server runs on. default = 3434
+
+- DEBUG: Set to log each file that changes. default = false
+
+### Client
+
+- PORT: Websocket port
+
+- URL: Websocket URL
