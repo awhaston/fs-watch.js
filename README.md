@@ -8,7 +8,7 @@ Meant for static or SSR websites
 
 ## Requirements
 
-- >= Node.js 19.1
+- \>= Node.js 19.1
 
 ## Instructions
 
